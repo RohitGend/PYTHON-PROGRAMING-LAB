@@ -27,7 +27,12 @@ def help():
                 Enter x to exit''')
 def display():
     print(d)
-d={"ROHIT":9503939238,"SAURABH":8485081891."PRATHAMESH":9665130307,"ASHWIN":9080320394. "OM":9763240904,"PRAJWAL":9284064551,
+d={"ROHIT":9503939238,
+   "SAURABH":8485081891,
+   "PRATHAMESH":9665130307,
+   "ASHWIN":9080320394,
+   "OM":9763240904,
+   "PRAJWAL":9284064551,}
 if __name__=='__main__':
     help()
     while(True):
